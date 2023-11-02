@@ -2,4 +2,4 @@
 
 mkdir -p configs
 rm -f configs/*.zip
-zip -ru9 configs/ve-private-conf.zip storage
+zip -y -ru9 configs/ve-private-conf.zip storage
